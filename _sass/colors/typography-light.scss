@@ -9,13 +9,13 @@
   --main-border-color: #f3f3f3;
 
   /* Common color */
-  --text-color: #34343c;
+  --text-color: #c25e00;
   --text-muted-color: #757575;
   --text-muted-highlight-color: inherit;
   --heading-color: #2a2a2a;
   --label-color: #585858;
   --blockquote-border-color: #eeeeee;
-  --blockquote-text-color: #757575;
+  --blockquote-text-color: #c25e00;
   --link-color: #0056b2;
   --link-underline-color: #dee2e6;
   --button-bg: #ffffff;
@@ -51,37 +51,37 @@
 
   /* Topbar */
   --topbar-bg: rgb(255, 255, 255, 0.7);
-  --topbar-text-color: rgb(78, 78, 78);
+  --topbar-text-color: #c25e00;
   --search-border-color: rgb(240, 240, 240);
   --search-icon-color: #c2c6cc;
   --input-focus-border-color: #b8b8b8;
 
   /* Home page */
-  --post-list-text-color: dimgray;
-  --btn-patinator-text-color: #555555;
+  --post-list-text-color: #c25e00;
+  --btn-patinator-text-color: #c25e00;
   --btn-paginator-hover-color: var(--sidebar-bg);
 
   /* Posts */
   --toc-highlight: #0550ae;
   --btn-share-color: gray;
   --btn-share-hover-color: #0d6efd;
-  --card-bg: white;
-  --card-hovor-bg: #e2e2e2;
+  --card-bg: #c25e00;
+  --card-hovor-bg: #c25e00;
   --card-shadow: rgb(104, 104, 104, 0.05) 0 2px 6px 0,
     rgba(211, 209, 209, 0.15) 0 0 0 1px;
-  --footnote-target-bg: lightcyan;
-  --tb-odd-bg: #fbfcfd;
-  --tb-border-color: #eaeaea;
-  --dash-color: silver;
-  --kbd-wrap-color: #bdbdbd;
+  --footnote-target-bg: #c25e00;
+  --tb-odd-bg: #c25e00;
+  --tb-border-color: #c25e00;
+  --dash-color: #c25e00;
+  --kbd-wrap-color: #c25e00;
   --kbd-text-color: var(--text-color);
-  --kbd-bg-color: white;
-  --prompt-text-color: rgb(46, 46, 46, 0.77);
+  --kbd-bg-color: #c25e00;
+  --prompt-text-color: #c25e00;
   --prompt-tip-bg: rgb(123, 247, 144, 0.2);
   --prompt-tip-icon-color: #03b303;
-  --prompt-info-bg: #e1f5fe;
+  --prompt-info-bg: #c25e00;
   --prompt-info-icon-color: #0070cb;
-  --prompt-warning-bg: rgb(255, 243, 205);
+  --prompt-warning-bg: #c25e00;
   --prompt-warning-icon-color: #ef9c03;
   --prompt-danger-bg: rgb(248, 215, 218, 0.56);
   --prompt-danger-icon-color: #df3c30;
