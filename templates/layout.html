@@ -1,0 +1,32 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Document</title>
+</head>
+<body class="bg-gradient-to-tr from-black to-stone-950">
+    <nav class="bg-transparent font-mono font-semibold subpixel-antialiased p-8 text-white flex justify-between">
+        <div class="text-white text-2xl pl-8">
+            <img src="../static/Bare_Logo_Color_small.png" alt="Microfacet" class="h-12 w-12 inline-block">
+            Microfacet
+        </div>
+        <ul class="text-xl flex justify-end space-x-4 pt-2 pr-8">
+            <li>
+                <a href="/" class="text-white">Home</a>
+            </li>
+            <li>
+                <a href="/about" class="text-white">Blogs</a>
+            </li>
+            <li>
+                <a href="/about" class="text-white">About Us</a>
+            </li>
+            <li>
+                <a href="/contact" class="text-white">Join</a>
+            </li>
+        </ul>
+    </nav>
+    {% block content %}
+    {% endblock %}
+</body>
+</html>
